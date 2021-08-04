@@ -6,7 +6,7 @@
 
 ## Result screen
 Popup with the text 'Hello electron' and 'Hello, react!'
-![screen](https://github.com/yjclarelee/electron-react-ts-boilerplate/blob/assets/screen.png?raw=true)
+![screen](https://user-images.githubusercontent.com/22363298/128173687-846916b9-1b5e-44f8-be9a-781337741763.png)
 
 ## Reference
 [Setting up an Electron app with React and TypeScript](https://www.keevan.dev/blog/2020/02/setting-up-electron-react-and-typescript) by Keevan Dance
